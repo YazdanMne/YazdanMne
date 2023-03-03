@@ -3,7 +3,7 @@
 **I'm Yazdan** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/yazdan.dev/"> Instagram.</a>
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,dart,flutter,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
   
 ### 🌐 Socials:
